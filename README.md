@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Manwani</h1>
 <h3 align="center">A Passionate FRONTEND DEVELOPER From My Own World</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-manwani&label=Profile%20views&color=0e75b6&style=flat" alt="aman-manwani" /> </p>
+
 
 - 🔭 I’m currently working on **Exploring Competitive Programming**
 
