@@ -11,7 +11,7 @@
 
 - Connect with me at [https://www.linkedin.com/in/aman-manwani-098891240/](https://www.linkedin.com/in/aman-manwani-098891240/)
 
-- fond of playing ['Basketball, Billiards and PUBG']('Basketball, Billiards and PUBG')
+- fond of playing ['Basketball, Billiards and PUBG']
 
 - 💬 Ask me about **DSA, CP and Myself**
 
