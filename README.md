@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Exploring Competitive Programming**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
