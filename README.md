@@ -111,11 +111,11 @@
 <p >
  
 ![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aman-Manwani&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)
-<!-- 
+
 <a href="https://github.com/Aman-Manwani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-Manwani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Manwani&theme=algolia&hide=c%2B%2B&layout=compact"/>
-</a> -->
+</a>
  
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=VasuDevrani&theme=cobalt)](https://git.io/streak-stats) -->
 
