@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey, I am Aman Manwani</h1>
 
-<span style="color:#39FF14"><h2 align="center" color="#39FF14">Competitive Programmer | MERN Developer</h2></span>
+<span style="color:#39FF14"><h2 align="center" color="#39FF14">Full Stack Developer</h2></span>
 
 <div>
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101383635/198191581-35c5935a-ac37-4ee0-af05-1ba14e08f026.gif"> -->
@@ -19,7 +19,7 @@
 
 - 👨‍🎓 B.Tech Sophomore in **Information Technology**
 
-- 👨‍💻 Currently learning **TypeScript & Go**
+- 👨‍💻 Currently learning **GoLang**
 
 - 🔍 Exploring some open source projects to collaborate
 
@@ -50,6 +50,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.Js](https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=Next.Js&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  
 <h3>
 
@@ -100,8 +101,8 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-AmanManwani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Aman_Manwani)](https://linkedin.com/in/Aman_Manwani)
-[![Twitter Badge](https://img.shields.io/badge/-Aman-red?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/aman_manwani)](https://twitter.com/aman_manwani)
+[![Linkedin Badge](https://img.shields.io/badge/-AmanManwani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-manwani-098891240/)](https://www.linkedin.com/in/aman-manwani-098891240/)
+[![Twitter Badge](https://img.shields.io/badge/-Amanmanwani0-red?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Amanmanwani0?t=XHqXuM7Hc7JswOhX2ohFlA&s=09)](https://twitter.com/Amanmanwani0?t=XHqXuM7Hc7JswOhX2ohFlA&s=09)
 [![Gmail Badge](https://img.shields.io/badge/aman04.manwani@gmail.com-green?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:aman04.manwani@gmail.com)](mailto:aman04.manwani@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/aman_manwani)](https://www.leetcode.com/amanmanwani)
 
