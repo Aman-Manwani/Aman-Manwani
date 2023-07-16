@@ -19,9 +19,7 @@
 
 - 👨‍🎓 B.Tech Sophomore in **Information Technology**
 
-- 👨‍💻 Currently learning **GoLang**
-
-- 🔍 Exploring some open source projects to collaborate
+- 👨‍💻 Currently learning **DevOps**
 
 - 🤝🏼 Open for Collaborations
  
@@ -107,18 +105,3 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/aman_manwani)](https://www.leetcode.com/amanmanwani)
 
  </p>
-<!-- </br> -->
-<h2>📈 Github Stats</h2>
-
-<p >
- 
-![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aman-Manwani&bg_color=090132&color=009dff&line=0287d9&point=ffffff&area=true&hide_border=true)
-
-<a href="https://github.com/Aman-Manwani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-Manwani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Manwani&theme=algolia&hide=c%2B%2B&layout=compact"/>
-</a>
- 
-<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=VasuDevrani&theme=cobalt)](https://git.io/streak-stats) -->
-
-</p>
