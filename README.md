@@ -1,107 +1,51 @@
+### Hi there, I am Aman Manwani
 
+👨‍🎓 _Senior at MAIT Delhi_
 
-<h1 align="center"> Hey, I am Aman Manwani</h1>
+<hr>
+A little more about me...
 
-<span style="color:#39FF14"><h2 align="center" color="#39FF14">Full Stack Developer </h2></span>
+```javascript
+const Aman = {
+  "Pronouns"="He/Him",
+  "Description"="I am currently a Senior at MAIT Delhi and a  Full stack MERN web developer."
+  "Technologies":{
+    "Frontend:"                 ["HTML5", "CSS3","Tailwind CSS", "Chakra UI" ,"JavaScript", "React JS", "Typescript", "Next JS"],
+    "Backend:"                  ["Nodejs", "Express JS"],
+    "Programming Languages"     ["C", "C++", "Java"]
+    "Databases"                 ["Mongodb", "MySql"],
+    "DevOps":                   ["Docker", "Kubernetes", "AWS"],
+    "Pipeline Tools"            ["Jenkins" , "Github Actions"]
+    "Testing:"                  [ "Jest", "Mocha"],
+    "Tools:"                    ["Git", "Postman", "VsCode", "Trivy", "Sonarqube"]
+  },
+  "Passions":{
+    "Web Development",
+    "DevOps",
+    "Open Source"
+  }
+  "Positions"{
+    "Contributor at GSSOC",
+    "Full Stack Developer Intern at India Accelerator",
+    "Member at MAIT Coding Club"
+  },
+  "Hackathons":{
+    "TOP 15 @HACKVSIT 4.O:"                                 ["Secured position under top 15 teams among 250 individuals and 65 teams."],
+    "Ist @India Tour Of Open Source : Delhi Edition:"       ["Winner of the hackathon among 452 individuals and 92 teams."]
+  }
+}
+```
+<h3>Github Stats:</h3>
+<p align="center">
+  
+<!-- Github Stats + Top Langs -->
+  
+ <img height="180em" width="456em" src="https://github-readme-stats.vercel.app/api?username=Aman-Manwani&show_icons=true&hide_border=true"/>
+  <img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Manwani&layout=compact&langs_count=8"/>
 
-<div>
-<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/101383635/198191581-35c5935a-ac37-4ee0-af05-1ba14e08f026.gif"> -->
-<!-- <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="Aman_Manwani" /> -->
-   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</div>
-<h2>
-
-🙋🏻‍♂️ About Me
-
-</h2>
-<span style="font-size: 18px">
-<p >
-
-- 👨‍🎓 B.Tech Pre-Final Year in **Information Technology**
-
-- 👨‍💻 Currently exploring **Advanced DevOps Concepts**
-
-- 🤝🏼 Open for Collaborations
- 
-- 📫 How to reach me **aman04.manwani@gmail.com**
- 
-- 🙂 My things **music,gaming and programming**
-
-- ✨ Fun fact **I Love Coding😁**
-
+<!-- Github Stats + Streaks -->
+  <img src = "https://activity-graph.herokuapp.com/graph?username=Aman-Manwani&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Aman-Manwani&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Aman-Manwani&theme=dark&hide_border=true" width = 400>
+  
 </p>
-</span>
-</br>
-
-<h3>
-
-🌍 Language I use:
-
-</h3>
-
-<p >
- 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.Js](https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=Next.Js&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- 
-<h3>
-
-🦾 FrameWorks & Libraries I use:
-
-</h3>
- 
-<p>
- 
-![Express](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</p>
-
-<h3>
-
-📊 Databases I use:
-
-</h3>
-<p>
- 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</p>
-
-<h3>
-
-🛠️ Tools I use:
-
-</h3>
-
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=Postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-
-</p>
-
-<!-- </br> -->
-
-<h2>💬 Want To Contact Me? </h2>
-
-<p >
-
-[![Linkedin Badge](https://img.shields.io/badge/-AmanManwani-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-manwani-098891240/)](https://www.linkedin.com/in/aman-manwani-098891240/)
-[![Twitter Badge](https://img.shields.io/badge/-Amanmanwani0-red?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Amanmanwani0?t=XHqXuM7Hc7JswOhX2ohFlA&s=09)](https://twitter.com/Amanmanwani0?t=XHqXuM7Hc7JswOhX2ohFlA&s=09)
-[![Gmail Badge](https://img.shields.io/badge/aman04.manwani@gmail.com-green?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:aman04.manwani@gmail.com)](mailto:aman04.manwani@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://www.leetcode.com/aman_manwani)](https://www.leetcode.com/amanmanwani)
-
- </p>
