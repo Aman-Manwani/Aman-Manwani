@@ -17,7 +17,7 @@ const Aman = {
     "DevOps":                   ["Docker", "Kubernetes", "AWS"],
     "Pipeline Tools"            ["Jenkins" , "Github Actions"]
     "Testing:"                  [ "Jest", "Mocha"],
-    "Tools:"                    ["Git", "Postman", "VsCode", "Trivy", "Sonarqube"]
+    "Tools:"                    ["Git", "Postman", "VsCode", "Trivy", "Sonarqube", "ARGO CD"]
   },
   "Passions":{
     "Web Development",
